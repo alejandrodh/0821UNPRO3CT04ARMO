@@ -10,13 +10,20 @@
     width: 100%;
     margin-bottom: 20px; 
 }
-.character-card:hover{
+.character-card:hover,
+.active{
 box-shadow: 0rem 0rem 10px 8px rgb(58 59 69 / 25%);
 }
 .more{
     color: blue;
 }
-.more:hover{
+.more:hover {
     text-decoration: underline;
     cursor: pointer;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
 }
