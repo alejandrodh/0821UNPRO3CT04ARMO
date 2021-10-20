@@ -13,4 +13,4 @@ web-build/
 .DS_Store
 
 # Customs
-src/firebase/config
+/src/firebase/config.js
