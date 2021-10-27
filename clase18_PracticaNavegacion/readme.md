@@ -1,0 +1,1 @@
+Dedicamos la clase a practicar los temas vistos en la clase anterior.
